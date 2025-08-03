@@ -137,8 +137,4 @@ Visual Itineraries: Generate a map-based view of the travel plan.
 Voice Integration: Enable hands-free planning through a voice-activated assistant.
 
 👤 Author
-[Your Name]
-
-GitHub: [Your GitHub Profile URL]
-
-LinkedIn: [Your LinkedIn Profile URL]
+Som Prasad
